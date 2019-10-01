@@ -14,4 +14,5 @@ Radiology CDM은 국제 DICOM 표준 및 ETL정의서를 기반으로 DICOM 표�
 ## 2.	How to extract Radiology CDM Data?
 Radiology CDM은 DICOM File에 저장된 DICOM Tag데이터 그리고 DICOM Image 추출합니다. 추출된 데이터를 기반으로 Occurrence 와 Image 테이블을 생성하며 변환에 사용된 DICOM File은 Local Storage 및 Server Storage에 저장이 가능합니다.
  
+ 
 ![structure](/image/structure.png)
