@@ -1,0 +1,6 @@
+
+
+
+# django_extensions
+
+ python manage.py shell_plus
