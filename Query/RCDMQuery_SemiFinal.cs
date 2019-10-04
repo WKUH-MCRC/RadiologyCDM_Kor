@@ -1,4 +1,15 @@
 
+drop table Radiology_hospital;
+drop table Radiology_Person_Position;
+drop table Radiology_Dose_Units;
+drop table Radiology_Exposure_Units;
+drop table Radiology_condition;
+drop table Radiology_occurrence;
+drop table Radiology_image;
+drop table Radiology_modality;
+drop table radiology_device;
+drop table radiology_protocol;
+drop table radiology_units;
 
 SELECT * FROM Radiology_hospital;
 SELECT * FROM Radiology_Person_Position;
