@@ -18,15 +18,15 @@ Radiology CDM은 DICOM File에 저장된 DICOM Tag데이터 그리고 DICOM Imag
 
 # WIKI
 자세한 내용은 아래 주소에서 자세하게 설명되어 있습니다.
-## 1. HOME
+##  HOME
 https://github.com/WKUH-MCRC/RadiologyCDM_Kor/wiki
-## 2. [DB] PostgreSQL Install
+##  [DB] PostgreSQL Install
 https://github.com/WKUH-MCRC/RadiologyCDM_Kor/wiki/%5BDB%5D-PostgreSQL-Install
-## [DB] PostgreSQL pgAdmin
+##  [DB] PostgreSQL pgAdmin
 https://github.com/WKUH-MCRC/RadiologyCDM_Kor/wiki/%5BDB%5D-PostgreSQL-pgAdmin
-## [DB] Radiology CDM ERD & Table Description
+##  [DB] Radiology CDM ERD & Table Description
 https://github.com/WKUH-MCRC/RadiologyCDM_Kor/wiki/%5BDB%5D-Radiology-CDM-ERD-&-Table-Description
-## [GUI] Radiology CDM Tool
+##  [GUI] Radiology CDM Tool
 https://github.com/WKUH-MCRC/RadiologyCDM_Kor/wiki/%5BGUI%5D-Radiology-CDM-Tool
-## [GUI] RCDM Data Search & Cohort
+##  [GUI] RCDM Data Search & Cohort
 https://github.com/WKUH-MCRC/RadiologyCDM_Kor/wiki/%5BGUI%5D-RCDM-Data-Search-&-Cohort
