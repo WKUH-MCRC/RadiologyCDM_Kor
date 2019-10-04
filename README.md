@@ -17,7 +17,7 @@ Radiology CDM은 DICOM File에 저장된 DICOM Tag데이터 그리고 DICOM Imag
 ![structure](/image/Postgresql/structure.png)
 
 # WIKI
-자세한 내용은 아래 주소에 있는 설명되어 있습니다.
+자세한 내용은 아래 주소에서 자세하게 설명되어 있습니다.
 ## 1. HOME
 https://github.com/WKUH-MCRC/RadiologyCDM_Kor/wiki
 ## 2. [DB] PostgreSQL Install
